@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1078-bug-apps-mobile-components-qrscanner-tsx",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1078-bug-apps-mobile-components-qrscanner-tsx": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1078-bug-apps-mobile-components-qrscanner-tsx",
+    "origin"
+  ]
+}
